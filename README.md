@@ -15,3 +15,13 @@
 ./packerbuild.sh
 ```
 
+#Build VMSS and Jumpbox
+```powershell
+#Copy contents of appendoutput into output.tf
+#Copy contents of appendvmms into vmss.tf
+#Copy contents of appendoutput into vmss.tf
+./terraform init
+./terraform plan 
+./terrafrom apply 
+#Access scaleset with nginx 
+```
