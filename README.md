@@ -1,6 +1,6 @@
 # terraformvmss
 
-# Create storage account for terraform state, store storage account access key in key vault, install packaer and terraform 
+# Create storage account for terraform state, store storage account access key in key vault, install packer and terraform 
 ```powershell 
 ./terraformstate.sh
 ```
