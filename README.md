@@ -4,3 +4,10 @@
 ```powershell 
 ./terraformstate.sh
 ```
+# Intial terraform script with a public ip 
+```powershell
+./terraform init
+./terraform plan 
+./terrafrom apply 
+```
+
