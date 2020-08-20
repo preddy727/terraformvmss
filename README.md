@@ -15,7 +15,7 @@
 ./packerbuild.sh
 ```
 
-#Build VMSS and Jumpbox
+# Build VMSS (VM Scaleset0 and Jumpbox
 ```powershell
 #Copy contents of appendoutput into output.tf
 #Copy contents of appendvmms into vmss.tf
