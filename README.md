@@ -10,4 +10,8 @@
 ./terraform plan 
 ./terrafrom apply 
 ```
+# Build packer image 
+```powershell 
+./packerbuild.sh
+```
 
